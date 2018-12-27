@@ -1,14 +1,4 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
-  <action id="EditorCodeBlockEnd" />
-  <action id="EditorCodeBlockStart" />
-  <action id="NextTab">
-    <keyboard-shortcut first-keystroke="ctrl right" />
-    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
-  </action>
-  <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="ctrl left" />
-    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
-  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="shift meta 2" />
   </action>
