@@ -1,0 +1,70 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/go/src/gotest/main.go" timestamp="1546055952802">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="4" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="37" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>r</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">CQkK</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>fmt.Println(hashMap)</text>
+      </register>
+      <register name="2" type="4">
+        <text>for idx, c := range s {
+		if _, ok := hashMap[c]; ok {
+			
+		} else {
+			hashMap[c] = []repeatSubStr{{}}
+		}
+	}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlmb3IgaWR4LCBjIDo9IHJhbmdlIHMgewoJCQlpZiBfLCBvayA6PSBoYXNoTWFwW3NdOyBvayB7CgkJCQkKCQkJfSBlbHNlIHsKCQkJCWhhc2hNYXBbY10gPSAmY2h7CgkJCQkJbGFzdElkeDogLTEsCgkJCQkJazogaywKCQkJCX0KCQkJfQoJCX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQlmb3IgaWR4LCBjIDo9IHJhbmdlIHMgewoJCQlpZiBfLCBvayA6PSBoYXNoTWFwW3NdOyBvayB7CgkJCQkKCQkJfSBlbHNlIHsKCQkJCWhhc2hNYXBbY10gPSAmY2h7CgkJCQkJbGFzdElkeDogLTEsCgkJCQkJazogaywKCQkJCX0KCQkJfQoJCX0KCQoKfQoKZnVuYyBtYWluKCkgewoJZm10LlByaW50bG4oY2hhcmFjdGVyUmVwbGFjZW1lbnQoIkFCQUIiLCAyKSkKCWZtdC5QcmludGxuKGNoYXJhY3RlclJlcGxhY2VtZW50KCJBQUJBQkJBIiwgMSkpCn0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cglmb3IgaWR4LCBjIDo9IHJhbmdlIHMgewo=</text>
+      </register>
+      <register name="6" type="8">
+        <text encoding="base64">CgoKCgoKCgoK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CWhhc2hNYXAgOj0gbWFrZShtYXBbcnVuZV0qY2gpCgoJZm9yIGlkeCwgYyA6PSByYW5nZSBzIHsKCQlpZiBfLCBvayA6PSBoYXNoTWFwW3NdOyBvayB7CgkJCQoJCX0gZWxzZSB7CgkJCWhhc2hNYXBbY10gPSAmY2h7CgkJCQlsYXN0SWR4OiAtMSwKCQkJCWs6IGssCgkJCX0KCQl9Cgl9</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CWZvciBpZHgsIGNoIDo9IHJhbmdlIHMgewoJCWlmIGFyciwgb2sgOj0gaGFzaE1hcFtjaF07IG9rIHsKCQkJaGFzaE1hcFtjaF0gPSBhcHBlbmQoYXJyLCBpZHgpCgkJfSBlbHNlIHsKCQkJaGFzaE1hcFtjaF0gPSBbXWludHtpZHh9CgkJfQoJfQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text>fmt.Println(hashMap)</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
