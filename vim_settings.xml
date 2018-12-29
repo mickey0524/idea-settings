@@ -10,6 +10,7 @@
         <mark key="." line="87" column="45" />
         <mark key="^" line="87" column="45" />
       </file>
+      <file name="$USER_HOME$/go/src/code.byted.org/ad/union_dispatch/util/databus.go" timestamp="1546069001822" />
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
@@ -24,13 +25,19 @@
       <jump line="45" column="16" filename="$USER_HOME$/go/src/gotest/main.go" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcyk=</text>
+      </register>
+      <register name="/" type="4">
+        <text>databus</text>
+      </register>
       <register name="0" type="2">
         <text encoding="base64">CWZtdC5QcmludGxuKGNoYXJhY3RlclJlcGxhY2VtZW50KCJBQUFBQkJCQkJCQiIsIDApKQo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
-      </register>
-      <register name="&quot;" type="4">
         <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
       </register>
       <register name="2" type="2">
@@ -57,15 +64,19 @@
       <register name="9" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="-" type="4">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcyk=</text>
-      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search>databus</last-search>
+      <last-offset />
+      <last-pattern>databus</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search>
+        <entry>databus</entry>
+      </history-search>
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
