@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/go/src/gotest/main.go" timestamp="1546066353711">
+      <file name="$USER_HOME$/go/src/gotest/main.go" timestamp="1546067092494">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="87" column="48" />
         <mark key="]" line="87" column="45" />
