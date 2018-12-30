@@ -1,0 +1,78 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/go/src/gotest/main.go" timestamp="1546067092494">
+        <mark key="'" line="45" column="16" />
+        <mark key="[" line="87" column="48" />
+        <mark key="]" line="87" column="45" />
+        <mark key="." line="87" column="45" />
+        <mark key="^" line="87" column="45" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="5" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="6" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="11" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="44" column="20" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="62" column="18" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="74" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="67" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="64" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="52" column="30" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="45" column="16" filename="$USER_HOME$/go/src/gotest/main.go" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">CWZtdC5QcmludGxuKGNoYXJhY3RlclJlcGxhY2VtZW50KCJBQUFBQkJCQkJCQiIsIDApKQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CQlyZXMgPSBtaW4ocmVzLCBsZW5ndGgpCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CmZ1bmMgbWluKGEsIGIgaW50KSBpbnQgewoJaWYgYSA8IGIgewoJCXJldHVybiBhCgl9CglyZXR1cm4gYgp9</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJCWZtdC5QcmludGxuKHRtcCkK</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZnVuYyBtaW4oYSwgYiBpbnQpIGludCB7CglpZiBhIDwgYiB7CgkJcmV0dXJuIGEKCX0KCXJldHVybiBiCn0=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CWZtdAo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CS8vaWYgYXJyTGVuID09IDEgewoJCS8vCXJlcyA9IG1pbihhcnJbMV0uZW5kSWR4IC0gYXJyWzBdLmJlZ2luSWR4ICsgMSArIGssIGxlbmd0aCkKCQkvL30gZWxzZSB7CgkJLy8JY250SyA6PSBrCgkJLy8JaGVhZCwgdGFpbCA6PSAwLCAxCgkJLy8JcmVwZWF0TGVuIDo9IDAKCQkvLwlmb3IgdGFpbCA8IGFyckxlbiB7CgkJLy8JCXRhaWxHYXAgOj0gYXJyW3RhaWxdLmJlZ2luSWR4IC0gYXJyW3RhaWwgLSAxXS5lbmRJZHggLSAxCgkJLy8JCWlmIGNudEsgPj0gdGFpbEdhcCB7CgkJLy8JCQlyZXBlYXRMZW4gKz0gYXJyW3RhaWxdLmVuZElkeCAtIGFycltoZWFkXS5iZWdpbklkeCArIDEKCQkvLwkJCWNudEsgLT0gdGFpbEdhcAoJCS8vCQkJdGFpbCsrCgkJLy8JCX0gZWxzZSBpZiB0YWlsIC0gaGVhZCA9PSAxIHsKCQkvLwkJCWhlYWQrKwoJCS8vCQkJdGFpbCsrCgkJLy8JCX0gZWxzZSB7CgkJLy8JCQloZWFkR2FwIDo9IGFycltoZWFkICsgMV0uYmVnaW5JZHggLSBhcnJbaGVhZF0uZW5kSWR4IC0gMQoJCS8vCQkJY250SyArPSBoZWFkR2FwCgkJLy8JCQlyZXBlYXRMZW4gLT0gaGVhZEdhcCArIGFycltoZWFkXS5lbmRJZHggLSBhcnJbaGVhZF0uYmVnaW5JZHggKyAxCgkJLy8JCQloZWFkKysKCQkvLwkJfQoJCS8vCQlyZXMgPSBtYXgocmVzLCByZXBlYXRMZW4pCgkJLy8JfQoJCS8vCXJlcyA9IG1pbihyZXMgKyBjbnRLLCBsZW5ndGgpCgkJLy8JZm10LlByaW50bG4ocmVzLCBjaCkKCQkvL30=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CQlhcnJMZW4gOj0gbGVuKGFycikKCQl0bXAgOj0gYXJyWzBdLmVuZElkeCAtIGFyclswXS5iZWdpbklkeCArIDEKCQljbnRLIDo9IGsKCQloZWFkLCB0YWlsIDo9IDAsIDEKCQlmb3IgdGFpbCA8IGFyckxlbiB7CgkJCXRhaWxHYXAgOj0gYXJyW3RhaWxdLmJlZ2luSWR4IC0gYXJyW3RhaWwgLSAxXS5lbmRJZHggLSAxCgkJCWlmIGNudEsgPj0gdGFpbEdhcCB7CgkJCQl0bXAgKz0gYXJyW3RhaWxdLmVuZElkeCAtIGFycltoZWFkXS5iZWdpbklkeCArIDEKCQkJCWNudEsgLT0gdGFpbEdhcAoJCQkJdGFpbCsrCgkJCX0gCgkJfQ==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">CWZtdC5QcmludGxuKHJlcyk=</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
