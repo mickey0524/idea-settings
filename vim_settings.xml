@@ -6,10 +6,12 @@
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/dao/DepartmentMapper.java" timestamp="1546333937957">
         <mark key="[" line="4" column="35" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2DepartmentController.java" timestamp="1546330149888">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2DepartmentController.java" timestamp="1546341399657">
+        <mark key="'" line="30" column="15" />
+        <mark key="[" line="49" column="5" />
+        <mark key="]" line="49" column="4" />
+        <mark key="." line="49" column="4" />
+        <mark key="^" line="49" column="4" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2DepartmentController.java" timestamp="1546330558475">
         <mark key="[" line="12" column="4" />
@@ -20,7 +22,7 @@
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2AppUserService.java" timestamp="1546330453575">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2AppUserController.java" timestamp="1546330146301">
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2AppUserController.java" timestamp="1546340772698">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="32" column="48" />
       </file>
@@ -35,7 +37,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/AppUserMapper.xml" timestamp="1546334040924" />
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" timestamp="1546333506169">
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" timestamp="1546341440725">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/AppUserAddDto.java" timestamp="1546331394277" />
@@ -46,19 +48,25 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546334245072">
-        <mark key="'" line="44" column="55" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="52" column="51" />
-        <mark key="^" line="46" column="82" />
-        <mark key="." line="52" column="51" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/framework/ResponseCode.java" timestamp="1546340027466">
+        <mark key="[" line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/go/src/gotest/main.go" timestamp="1546067092494">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="87" column="48" />
-        <mark key="]" line="87" column="45" />
-        <mark key="." line="87" column="45" />
-        <mark key="^" line="87" column="45" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546341499118">
+        <mark key="'" line="78" column="55" />
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="46" column="14" />
+        <mark key="^" line="46" column="14" />
+        <mark key="." line="46" column="14" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/DepartmentManage.vue" timestamp="1546341779079">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="67" column="20" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentIdDto.java" timestamp="1546340533938">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="5" column="10" />
+        <mark key="^" line="5" column="10" />
+        <mark key="." line="5" column="10" />
       </file>
       <file name="/fragment.java" timestamp="1546331755748">
         <mark key="[" line="0" column="0" />
@@ -99,13 +107,16 @@
       <jump line="204" column="4" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
       <jump line="33" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
+      <jump line="83" column="13" filename="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/DepartmentManage.vue" />
+      <jump line="0" column="0" filename="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/DepartmentManage.vue" />
+      <jump line="29" column="15" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2DepartmentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app_user</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYWRtaW4gY3JlYXRlIG5ldyBhcHAgdXNlciAiICsgSlNPTi50b0pTT05TdHJpbmcoYXBwVXNlcikpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>app_user</text>
+        <text>appUser</text>
       </register>
       <register name="/" type="4">
         <text>databus</text>
@@ -114,31 +125,31 @@
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQWRtaW4yQXBwVXNlclNlcnZpY2UgYXBwVXNlclNlcnZpY2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc2VhcmNoLmNvbW1vbi5jb25zdGFudHMuUmV2aWV3U3RhdHVzLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygiYWRtaW4gY3JlYXRlIG5ldyBhcHAgdXNlciAiICsgSlNPTi50b0pTT05TdHJpbmcoYXBwVXNlcikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNUQVRVU19ERUxFVEUoMywgIuW3suWIoOmZpCIpLAogICAgU1RBVFVTX1VQREFURV9XQUlUX1JFVklFVyg0LCAi5L+u5pS55b6F5a6J5YWo5ZGY5a6h5qC4IiksCiAgICBTVEFUVVNfRlJPWkVOX1dBSVRfUkVWSUVXKDUsICLlhrvnu5PlvoXlronlhajlkZjlrqHmoLgiKSwKICAgIFNUQVRVU19ERUxFVEVfV0FJVF9SRVZJRVcoNiwgIuWIoOmZpOW+heWuieWFqOWRmOWuoeaguCIpLAogICAgU1RBVFVTX0VOQUJMRV9XQUlUX1JFVklFVyg3LCAi5ZCv55So5b6F5a6J5YWo5ZGY5a6h5qC4IiksCg==</text>
+        <text encoding="base64">ICAgIEBPcGVyYXRpb25Mb2dSZWNvcmQodHlwZSA9IEFETUlOX0NSRUFURV9BUFBfVVNFUl9MT0csIHRhcmdldEZpZWxkTmFtZSA9ICJ1c2VyTmFtZXxkZXBhcnRtZW50fGFkZHJlc3N8cG9saWNlTnVtYmVyfHBob25lIikK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CnB1YmxpYyBlbnVtICB7Cn0KcGFja2FnZSBjb20uc2VhcmNoLmNvbW1vbi5lbnVtczsKCi8qKgogKiBhcHDnlKjmiLfnirbmgIHmnprkuL4KICogMOS4uuaWsOW7uuW+heWuieWFqOWRmOWuoeaguO+8jDHkuLrkvb/nlKjkuK3vvIwy5Li65bey5Ya757uT77yMM+S4uuW3suWIoOmZpCA05Li65L+u5pS55b6F5a6J5YWo5ZGY5a6h5qC477yMNeS4uuWGu+e7k+W+heWuieWFqOWRmOWuoeaguO+8jDbkuLrliKDpmaTlvoXlronlhajlkZjlrqHmoLggN+WQr+eUqOW+heWuoeaguAogKi8=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihOT19FWElTVF9VU0VSLmludFZhbHVlKCksIE5PX0VYSVNUX1VTRVIuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbihOT19FWElTVF9VU0VSLmludFZhbHVlKCksIE5PX0VYSVNUX1VTRVIuZ2V0TWVzc2FnZSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc2VhcmNoLmNvbW1vbi5jb25zdGFudHMuUmV2aWV3U3RhdHVzLio7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNUQVRVU19ERUxFVEUoMywgIuW3suWIoOmZpCIpLAogICAgU1RBVFVTX1VQREFURV9XQUlUX1JFVklFVyg0LCAi5L+u5pS55b6F5a6J5YWo5ZGY5a6h5qC4IiksCiAgICBTVEFUVVNfRlJPWkVOX1dBSVRfUkVWSUVXKDUsICLlhrvnu5PlvoXlronlhajlkZjlrqHmoLgiKSwKICAgIFNUQVRVU19ERUxFVEVfV0FJVF9SRVZJRVcoNiwgIuWIoOmZpOW+heWuieWFqOWRmOWuoeaguCIpLAogICAgU1RBVFVTX0VOQUJMRV9XQUlUX1JFVklFVyg3LCAi5ZCv55So5b6F5a6J5YWo5ZGY5a6h5qC4IiksCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBBZG1pbjJEZXBhcnRtZW50U2VydmljZUltcGwoKSB7CiAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CnB1YmxpYyBlbnVtICB7Cn0KcGFja2FnZSBjb20uc2VhcmNoLmNvbW1vbi5lbnVtczsKCi8qKgogKiBhcHDnlKjmiLfnirbmgIHmnprkuL4KICogMOS4uuaWsOW7uuW+heWuieWFqOWRmOWuoeaguO+8jDHkuLrkvb/nlKjkuK3vvIwy5Li65bey5Ya757uT77yMM+S4uuW3suWIoOmZpCA05Li65L+u5pS55b6F5a6J5YWo5ZGY5a6h5qC477yMNeS4uuWGu+e7k+W+heWuieWFqOWRmOWuoeaguO+8jDbkuLrliKDpmaTlvoXlronlhajlkZjlrqHmoLggN+WQr+eUqOW+heWuoeaguAogKi8=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExvbmcgaWQgPSBhcHBVc2VyRHRvLmdldElkKCk7Ci8vICAgICAgICBpZiAoaWQgPT0gbnVsbCkgewovLyAgICAgICAgICAgIGlkID0gZG9DcmVhdGUoYXBwVXNlckR0byk7Ci8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgIGRvVXBkYXRlZGQoYXBwVXNlckR0byk7Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
     </registers>
     <search>
@@ -162,6 +173,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
