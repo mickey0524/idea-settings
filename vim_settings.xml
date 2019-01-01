@@ -3,6 +3,56 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/dao/DepartmentMapper.java" timestamp="1546333937957">
+        <mark key="[" line="4" column="35" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2DepartmentController.java" timestamp="1546330149888">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2DepartmentController.java" timestamp="1546330558475">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2AppUserService.java" timestamp="1546330453575">
+        <mark key="'" line="59" column="0" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2AppUserController.java" timestamp="1546330146301">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="48" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2DepartmentService.java" timestamp="1546331860362" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/enums/DepartmentStatusEnum.java" timestamp="1546333189660">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="24" />
+      </file>
+      <file name="/a.dummy" timestamp="1546331619369">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/AppUserMapper.xml" timestamp="1546334040924" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" timestamp="1546333506169">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/AppUserAddDto.java" timestamp="1546331394277" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/dao/AppUserMapper.java" timestamp="1546333866375" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentAddDto.java" timestamp="1546331412014">
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546334245072">
+        <mark key="'" line="44" column="55" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="52" column="51" />
+        <mark key="^" line="46" column="82" />
+        <mark key="." line="52" column="51" />
+      </file>
       <file name="$USER_HOME$/go/src/gotest/main.go" timestamp="1546067092494">
         <mark key="'" line="45" column="16" />
         <mark key="[" line="87" column="48" />
@@ -10,7 +60,15 @@
         <mark key="." line="87" column="45" />
         <mark key="^" line="87" column="45" />
       </file>
-      <file name="$USER_HOME$/go/src/code.byted.org/ad/union_dispatch/util/databus.go" timestamp="1546069001822" />
+      <file name="/fragment.java" timestamp="1546331755748">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/DepartmentMapper.xml" timestamp="1546334134508">
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="21" column="1" />
+        <mark key="." line="24" column="13" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="5" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
@@ -23,46 +81,64 @@
       <jump line="64" column="0" filename="$USER_HOME$/go/src/gotest/main.go" />
       <jump line="52" column="30" filename="$USER_HOME$/go/src/gotest/main.go" />
       <jump line="45" column="16" filename="$USER_HOME$/go/src/gotest/main.go" />
+      <jump line="8" column="17" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2AppUserService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2AppUserService.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2AppUserService.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="29" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="39" column="55" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
+      <jump line="219" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
+      <jump line="204" column="4" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2AppUserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
+        <text>app_user</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CWZtdC5QcmludGxuKHJlcyk=</text>
+        <text>app_user</text>
       </register>
       <register name="/" type="4">
         <text>databus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWZtdC5QcmludGxuKGNoYXJhY3RlclJlcGxhY2VtZW50KCJBQUFBQkJCQkJCQiIsIDApKQo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgQWRtaW4yQXBwVXNlclNlcnZpY2UgYXBwVXNlclNlcnZpY2U7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgkJCXJlcyA9IG1heChyZXMsIHRtcCtjbnRLKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uc2VhcmNoLmNvbW1vbi5jb25zdGFudHMuUmV2aWV3U3RhdHVzLio7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlyZXMgPSBtaW4ocmVzLCBsZW5ndGgpCg==</text>
+        <text encoding="base64">ICAgIFNUQVRVU19ERUxFVEUoMywgIuW3suWIoOmZpCIpLAogICAgU1RBVFVTX1VQREFURV9XQUlUX1JFVklFVyg0LCAi5L+u5pS55b6F5a6J5YWo5ZGY5a6h5qC4IiksCiAgICBTVEFUVVNfRlJPWkVOX1dBSVRfUkVWSUVXKDUsICLlhrvnu5PlvoXlronlhajlkZjlrqHmoLgiKSwKICAgIFNUQVRVU19ERUxFVEVfV0FJVF9SRVZJRVcoNiwgIuWIoOmZpOW+heWuieWFqOWRmOWuoeaguCIpLAogICAgU1RBVFVTX0VOQUJMRV9XQUlUX1JFVklFVyg3LCAi5ZCv55So5b6F5a6J5YWo5ZGY5a6h5qC4IiksCg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CmZ1bmMgbWluKGEsIGIgaW50KSBpbnQgewoJaWYgYSA8IGIgewoJCXJldHVybiBhCgl9CglyZXR1cm4gYgp9</text>
+        <text encoding="base64">CnB1YmxpYyBlbnVtICB7Cn0KcGFja2FnZSBjb20uc2VhcmNoLmNvbW1vbi5lbnVtczsKCi8qKgogKiBhcHDnlKjmiLfnirbmgIHmnprkuL4KICogMOS4uuaWsOW7uuW+heWuieWFqOWRmOWuoeaguO+8jDHkuLrkvb/nlKjkuK3vvIwy5Li65bey5Ya757uT77yMM+S4uuW3suWIoOmZpCA05Li65L+u5pS55b6F5a6J5YWo5ZGY5a6h5qC477yMNeS4uuWGu+e7k+W+heWuieWFqOWRmOWuoeaguO+8jDbkuLrliKDpmaTlvoXlronlhajlkZjlrqHmoLggN+WQr+eUqOW+heWuoeaguAogKi8=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCWZtdC5QcmludGxuKHRtcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZnVuYyBtaW4oYSwgYiBpbnQpIGludCB7CglpZiBhIDwgYiB7CgkJcmV0dXJuIGEKCX0KCXJldHVybiBiCn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWZtdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CS8vaWYgYXJyTGVuID09IDEgewoJCS8vCXJlcyA9IG1pbihhcnJbMV0uZW5kSWR4IC0gYXJyWzBdLmJlZ2luSWR4ICsgMSArIGssIGxlbmd0aCkKCQkvL30gZWxzZSB7CgkJLy8JY250SyA6PSBrCgkJLy8JaGVhZCwgdGFpbCA6PSAwLCAxCgkJLy8JcmVwZWF0TGVuIDo9IDAKCQkvLwlmb3IgdGFpbCA8IGFyckxlbiB7CgkJLy8JCXRhaWxHYXAgOj0gYXJyW3RhaWxdLmJlZ2luSWR4IC0gYXJyW3RhaWwgLSAxXS5lbmRJZHggLSAxCgkJLy8JCWlmIGNudEsgPj0gdGFpbEdhcCB7CgkJLy8JCQlyZXBlYXRMZW4gKz0gYXJyW3RhaWxdLmVuZElkeCAtIGFycltoZWFkXS5iZWdpbklkeCArIDEKCQkvLwkJCWNudEsgLT0gdGFpbEdhcAoJCS8vCQkJdGFpbCsrCgkJLy8JCX0gZWxzZSBpZiB0YWlsIC0gaGVhZCA9PSAxIHsKCQkvLwkJCWhlYWQrKwoJCS8vCQkJdGFpbCsrCgkJLy8JCX0gZWxzZSB7CgkJLy8JCQloZWFkR2FwIDo9IGFycltoZWFkICsgMV0uYmVnaW5JZHggLSBhcnJbaGVhZF0uZW5kSWR4IC0gMQoJCS8vCQkJY250SyArPSBoZWFkR2FwCgkJLy8JCQlyZXBlYXRMZW4gLT0gaGVhZEdhcCArIGFycltoZWFkXS5lbmRJZHggLSBhcnJbaGVhZF0uYmVnaW5JZHggKyAxCgkJLy8JCQloZWFkKysKCQkvLwkJfQoJCS8vCQlyZXMgPSBtYXgocmVzLCByZXBlYXRMZW4pCgkJLy8JfQoJCS8vCXJlcyA9IG1pbihyZXMgKyBjbnRLLCBsZW5ndGgpCgkJLy8JZm10LlByaW50bG4ocmVzLCBjaCkKCQkvL30=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHB1YmxpYyBBZG1pbjJEZXBhcnRtZW50U2VydmljZUltcGwoKSB7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CQlhcnJMZW4gOj0gbGVuKGFycikKCQl0bXAgOj0gYXJyWzBdLmVuZElkeCAtIGFyclswXS5iZWdpbklkeCArIDEKCQljbnRLIDo9IGsKCQloZWFkLCB0YWlsIDo9IDAsIDEKCQlmb3IgdGFpbCA8IGFyckxlbiB7CgkJCXRhaWxHYXAgOj0gYXJyW3RhaWxdLmJlZ2luSWR4IC0gYXJyW3RhaWwgLSAxXS5lbmRJZHggLSAxCgkJCWlmIGNudEsgPj0gdGFpbEdhcCB7CgkJCQl0bXAgKz0gYXJyW3RhaWxdLmVuZElkeCAtIGFycltoZWFkXS5iZWdpbklkeCArIDEKCQkJCWNudEsgLT0gdGFpbEdhcAoJCQkJdGFpbCsrCgkJCX0gCgkJfQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExvbmcgaWQgPSBhcHBVc2VyRHRvLmdldElkKCk7Ci8vICAgICAgICBpZiAoaWQgPT0gbnVsbCkgewovLyAgICAgICAgICAgIGlkID0gZG9DcmVhdGUoYXBwVXNlckR0byk7Ci8vICAgICAgICB9IGVsc2UgewovLyAgICAgICAgICAgIGRvVXBkYXRlZGQoYXBwVXNlckR0byk7Ci8vICAgICAgICB9Cg==</text>
       </register>
     </registers>
     <search>
@@ -76,6 +152,9 @@
       <history-search>
         <entry>databus</entry>
       </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
