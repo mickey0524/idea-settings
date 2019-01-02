@@ -54,11 +54,11 @@
         <mark key="." line="109" column="15" />
         <mark key="^" line="109" column="15" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentAddDto.java" timestamp="1546331412014">
-        <mark key="[" line="13" column="24" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentAddDto.java" timestamp="1546409438975">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+        <mark key="^" line="16" column="23" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/resources/db.properties" timestamp="1546408677894">
         <mark key="[" line="6" column="18" />
@@ -69,16 +69,16 @@
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/framework/ResponseCode.java" timestamp="1546340027466">
         <mark key="[" line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546345557485">
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546409480172">
         <mark key="a" line="44" column="11" />
         <mark key="'" line="55" column="43" />
-        <mark key="[" line="55" column="60" />
+        <mark key="[" line="104" column="82" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/DepartmentManage.vue" timestamp="1546341779079">
+      <file name="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/DepartmentManage.vue" timestamp="1546409354470">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="20" />
+        <mark key="[" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentIdDto.java" timestamp="1546340533938">
         <mark key="[" line="3" column="0" />
@@ -132,10 +132,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>level</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>level</text>
       </register>
       <register name="/" type="4">
         <text>databus</text>
@@ -144,31 +144,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0IOafpeivouadoeS7tgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBtb2RpZnlUaW1lOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">SW50ZWdlciBjb3VudCA9IGFwcFVzZXJTZXJ2aWNlLmNvdW50QXBwVXNlcnMocmVxdWVzdCk7CiAgICAgICAgbG9nZ2VyLmluZm8oImFkbWluIHF1ZXJ5IGFwcCB1c2VycyB3aXRoIGNvbmRpdGlvbiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVxdWVzdCkpOwogICAgICAgIGlmIChjb3VudCA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzV2l0aERhdGEoUmVzcG9uc2VMaXN0UGFnZUluZm8uYnVpbGQoKQogICAgICAgICAgICAgICAgICAgIC5maWxsKG5ldyBBcnJheUxpc3Q8QXBwVXNlckxpc3RJbmZvPigpKQogICAgICAgICAgICAgICAgICAgIC5jb3VudChjb3VudCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2Vzc1dpdGhEYXRhKFJlc3BvbnNlTGlzdFBhZ2VJbmZvLmJ1aWxkKCkKICAgICAgICAgICAgICAgIC5maWxsKGFwcFVzZXJTZXJ2aWNlLmxpc3RBcHBVc2VycyhyZXF1ZXN0KSkKICAgICAgICAgICAgICAgIC5jb3VudChjb3VudCkp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVUaW1lOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5TdHJpbmc7ZAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQnl0ZSBzdGF0dXM7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgZm9yIChTdHJpbmcgczogZC5nZXRMZXZlbCgpLnNwbGl0KCItIikpIHsKCiAgICAgICAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZEluZm87Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0IOafpeivouadoeS7tgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">SW50ZWdlciBjb3VudCA9IGFwcFVzZXJTZXJ2aWNlLmNvdW50QXBwVXNlcnMocmVxdWVzdCk7CiAgICAgICAgbG9nZ2VyLmluZm8oImFkbWluIHF1ZXJ5IGFwcCB1c2VycyB3aXRoIGNvbmRpdGlvbiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVxdWVzdCkpOwogICAgICAgIGlmIChjb3VudCA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzV2l0aERhdGEoUmVzcG9uc2VMaXN0UGFnZUluZm8uYnVpbGQoKQogICAgICAgICAgICAgICAgICAgIC5maWxsKG5ldyBBcnJheUxpc3Q8QXBwVXNlckxpc3RJbmZvPigpKQogICAgICAgICAgICAgICAgICAgIC5jb3VudChjb3VudCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2Vzc1dpdGhEYXRhKFJlc3BvbnNlTGlzdFBhZ2VJbmZvLmJ1aWxkKCkKICAgICAgICAgICAgICAgIC5maWxsKGFwcFVzZXJTZXJ2aWNlLmxpc3RBcHBVc2VycyhyZXF1ZXN0KSkKICAgICAgICAgICAgICAgIC5jb3VudChjb3VudCkp</text>
       </register>
     </registers>
     <search>
