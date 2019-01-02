@@ -3,15 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/dao/DepartmentMapper.java" timestamp="1546342731864">
-        <mark key="[" line="8" column="67" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/dao/DepartmentMapper.java" timestamp="1546413057639">
+        <mark key="[" line="12" column="39" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2DepartmentController.java" timestamp="1546345598276">
-        <mark key="'" line="48" column="15" />
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="41" column="44" />
-        <mark key="^" line="41" column="44" />
-        <mark key="." line="41" column="44" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2DepartmentController.java" timestamp="1546411317508">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="39" column="75" />
+        <mark key="]" line="43" column="44" />
+        <mark key="^" line="43" column="44" />
+        <mark key="." line="43" column="44" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2DepartmentController.java" timestamp="1546330558475">
         <mark key="[" line="12" column="4" />
@@ -19,9 +21,10 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2AppUserController.java" timestamp="1546345401270">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="48" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/web/Admin2AppUserController.java" timestamp="1546410754268">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/Admin2DepartmentService.java" timestamp="1546345374778">
         <mark key="[" line="7" column="42" />
@@ -35,6 +38,7 @@
       <file name="/a.dummy" timestamp="1546331619369">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/AppUserMapper.xml" timestamp="1546412396552" />
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentListDto.java" timestamp="1546342048667">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -54,11 +58,15 @@
         <mark key="." line="109" column="15" />
         <mark key="^" line="109" column="15" />
       </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/dao/AppUserMapper.java" timestamp="1546412495755">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="44" />
+      </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentAddDto.java" timestamp="1546409438975">
-        <mark key="[" line="16" column="19" />
-        <mark key="]" line="16" column="23" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="23" />
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="23" />
+        <mark key="." line="15" column="23" />
+        <mark key="^" line="15" column="23" />
       </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/resources/db.properties" timestamp="1546408677894">
         <mark key="[" line="6" column="18" />
@@ -69,10 +77,10 @@
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/framework/ResponseCode.java" timestamp="1546340027466">
         <mark key="[" line="59" column="33" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546409480172">
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" timestamp="1546412760012">
         <mark key="a" line="44" column="11" />
         <mark key="'" line="55" column="43" />
-        <mark key="[" line="104" column="82" />
+        <mark key="[" line="99" column="16" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
@@ -86,11 +94,13 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1546331755748">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1546412224794">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/DepartmentMapper.xml" timestamp="1546342844460">
-        <mark key="[" line="38" column="23" />
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/DepartmentMapper.xml" timestamp="1546412904163">
+        <mark key="[" line="21" column="41" />
         <mark key="]" line="39" column="25" />
         <mark key="^" line="39" column="25" />
         <mark key="." line="39" column="25" />
@@ -131,44 +141,44 @@
       <jump line="65" column="43" filename="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/service/impl/Admin2DepartmentServiceImpl.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>level</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBEYXRhU291cmNlKERhdGFTb3VyY2VDb25zdGFudC5CVVNJTkVTUykK</text>
       </register>
       <register name="-" type="4">
-        <text>level</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>databus</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzOwo=</text>
+        <text encoding="base64">ICAgIEBEYXRhU291cmNlKERhdGFTb3VyY2VDb25zdGFudC5CVVNJTkVTUykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlcGFydG1lbnREdG8uZ2V0UGFyZW50SWQoKWRkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBtb2RpZnlUaW1lOwo=</text>
+        <text encoding="base64">ICAgIGRlcGFydG1lbnREdG8uZ2V0UGFyZW50SWQoKWRkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVUaW1lOwo=</text>
+        <text encoding="base64">ICAgIEBSZXNwbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQnl0ZSBzdGF0dXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBpZDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBtb2RpZnlUaW1lOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0IOafpeivouadoeS7tgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgRGF0ZSBjcmVhdGVUaW1lOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">SW50ZWdlciBjb3VudCA9IGFwcFVzZXJTZXJ2aWNlLmNvdW50QXBwVXNlcnMocmVxdWVzdCk7CiAgICAgICAgbG9nZ2VyLmluZm8oImFkbWluIHF1ZXJ5IGFwcCB1c2VycyB3aXRoIGNvbmRpdGlvbiAiICsgSlNPTi50b0pTT05TdHJpbmcocmVxdWVzdCkpOwogICAgICAgIGlmIChjb3VudCA9PSAwKSB7CiAgICAgICAgICAgIHJldHVybiBSZXNwb25zZS5zdWNjZXNzV2l0aERhdGEoUmVzcG9uc2VMaXN0UGFnZUluZm8uYnVpbGQoKQogICAgICAgICAgICAgICAgICAgIC5maWxsKG5ldyBBcnJheUxpc3Q8QXBwVXNlckxpc3RJbmZvPigpKQogICAgICAgICAgICAgICAgICAgIC5jb3VudChjb3VudCkpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcG9uc2Uuc3VjY2Vzc1dpdGhEYXRhKFJlc3BvbnNlTGlzdFBhZ2VJbmZvLmJ1aWxkKCkKICAgICAgICAgICAgICAgIC5maWxsKGFwcFVzZXJTZXJ2aWNlLmxpc3RBcHBVc2VycyhyZXF1ZXN0KSkKICAgICAgICAgICAgICAgIC5jb3VudChjb3VudCkp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQnl0ZSBzdGF0dXM7Cg==</text>
       </register>
     </registers>
     <search>
