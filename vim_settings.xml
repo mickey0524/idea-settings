@@ -60,6 +60,12 @@
         <mark key="^" line="13" column="12" />
         <mark key="." line="13" column="12" />
       </file>
+      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/resources/db.properties" timestamp="1546408677894">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/framework/ResponseCode.java" timestamp="1546340027466">
         <mark key="[" line="59" column="33" />
       </file>
@@ -126,10 +132,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ResponseListPageInfo</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>ResponseListPageInfo</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>databus</text>
