@@ -38,7 +38,6 @@
       <file name="/a.dummy" timestamp="1546331619369">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/common/mybatis/mapper/AppUserMapper.xml" timestamp="1546412396552" />
       <file name="$USER_HOME$/zhisou/zhisou-javaweb/src/main/java/com/search/manage/dto/DepartmentListDto.java" timestamp="1546342048667">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -84,7 +83,6 @@
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/UserManage.vue" timestamp="1546414295647" />
       <file name="$USER_HOME$/zhisou/zhisou-fe/src/components/administrator/DepartmentManage.vue" timestamp="1546409354470">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="67" column="0" />
@@ -211,5 +209,8 @@
         <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="false" />
+    </editor>
   </component>
 </application>
